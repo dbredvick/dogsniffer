@@ -1,0 +1,22 @@
+{
+  "name": "dogsniffer",
+  "version": "1.0.0",
+  "description": "Helping dogs in Austin find homes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbredvick/dogsniffer.git"
+  },
+  "keywords": [
+    "dogs"
+  ],
+  "author": "drew bredvick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbredvick/dogsniffer/issues"
+  },
+  "homepage": "https://github.com/dbredvick/dogsniffer#readme"
+}
