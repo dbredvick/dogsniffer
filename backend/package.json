@@ -4,7 +4,8 @@
   "description": "Helping dogs in Austin find homes",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/dbredvick/dogsniffer/issues"
   },
-  "homepage": "https://github.com/dbredvick/dogsniffer#readme"
+  "homepage": "https://github.com/dbredvick/dogsniffer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.13.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
